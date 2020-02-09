@@ -15,5 +15,8 @@
         "laravel-mix": "^2.0",
         "lodash": "^4.17.4",
         "uikit": "^3.0.0-beta.42"
+    },
+    "dependencies": {
+        "vue": "^2.6.11"
     }
 }

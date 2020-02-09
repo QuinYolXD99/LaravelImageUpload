@@ -6,3 +6,5 @@
  */
 
 require('./bootstrap');
+require('uikit/dist/js/uikit-icons.min.js');
+window.Vue = require('vue');
